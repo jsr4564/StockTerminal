@@ -60,5 +60,5 @@ python3 stock_terminal_1984.py AAPL \
 
 ## Credits
 
-- Jack Shetterly
+- Jack S
 
