@@ -31,7 +31,7 @@ BG_COLOR = "#050505"
 TEXT_COLOR = "#77FFAA"
 DIM_TEXT_COLOR = "#6FB892"
 ERROR_COLOR = "#FF8A8A"
-CREDITS_NAME = "Jack Shetterly"
+CREDITS_NAME = "Jack S"
 
 # Approximate stripe colors from the classic rainbow Apple logo.
 APPLE_1984_COLORS = [
